@@ -4,7 +4,7 @@
       "10h": 1000,
       "Goal": "GOOD",
       "ID": 392873,
-      "Active": 0
+      "Active": 0,
       "Name": "good name",
       "time": "06/08/2025 04:00:00 UTC"
     },
@@ -12,10 +12,10 @@
       "10h": 22,
       "Goal": "BAD",
       "ID": 4444,
-      "Active": 0
+      "Active": 0,
       "Name": "bad name",
       "time": "22/12/2024 07:23:16 UTC"
       "test": "true"
-    },
+    }
   }
 }
